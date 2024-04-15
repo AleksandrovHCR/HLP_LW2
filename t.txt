@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+void main() {
+	int Result, op_01=10, op_02=74;
+	int x, y, z[10];
+	z[1] = ((x==y) ? (+z[0]-78-55): (-x+8*x+7*y));
+	Result = 54<op_02 ? ++x++: x++;
+	Result = 1<op_02 ? y++:--x;
+	*Result = op_01<op_02? 9+8-9+x: (-y+z[1]+z[3]);*Result = 
+}
